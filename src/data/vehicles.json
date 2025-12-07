@@ -1,0 +1,361 @@
+[
+  {
+    "brand": "land-rover",
+    "value": "defender-l316",
+    "title": "DEFENDER / L316",
+    "image": "/vehicles/land-rover/defender-2007.jpg",
+    "years": [
+      {
+        "value": "2007-2016",
+        "label": "2007-2016"
+      }
+    ],
+    "order": 0
+  },
+  {
+    "brand": "land-rover",
+    "value": "discovery-4-l316",
+    "title": "DISCOVERY 4 / L319",
+    "image": "/vehicles/land-rover/discovery-4-2010.jpg",
+    "years": [
+      {
+        "value": "2010-2016",
+        "label": "2010-2016"
+      }
+    ],
+    "order": 1
+  },
+  {
+    "brand": "land-rover",
+    "value": "discovery-5-l462",
+    "title": "DISCOVERY 5 / L462",
+    "years": [
+      {
+        "value": "2017-2020",
+        "label": "2017-2020"
+      },
+      {
+        "value": "2023",
+        "label": "2023"
+      }
+    ],
+    "image": "/vehicles/land-rover/discovery-5-2017-2020.jpg",
+    "order": 2
+  },
+  {
+    "brand": "land-rover",
+    "value": "discovery-sport-l550",
+    "title": "DISCOVERY SPORT / L550",
+    "image": "/vehicles/land-rover/discovery-sport-2015-2019.jpg",
+    "years": [
+      {
+        "value": "2015-2019",
+        "label": "2015-2019"
+      },
+      {
+        "value": "2020",
+        "label": "2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 3
+  },
+  {
+    "brand": "land-rover",
+    "value": "freelander-2-l359",
+    "title": "FREELANDER 2 / L359",
+    "image": "/vehicles/land-rover/freelander-2-2006.jpg",
+    "years": [
+      {
+        "value": "2006-2014",
+        "label": "2006-2014"
+      }
+    ],
+    "order": 4
+  },
+  {
+    "brand": "land-rover",
+    "value": "new-defender-2020-l663",
+    "title": "NEW DEFENDER 2020 / L663",
+    "image": "/vehicles/land-rover/new-defender-2020plus.jpg",
+    "years": [
+      {
+        "value": "2020+",
+        "label": "2020+"
+      }
+    ],
+    "order": 5
+  },
+  {
+    "brand": "land-rover",
+    "value": "new-range-rover-l460",
+    "title": "NEW RANGE ROVER / L460",
+    "image": "/vehicles/land-rover/new-range-rover-2022plus.jpg",
+    "years": [
+      {
+        "value": "2022+",
+        "label": "2022+"
+      }
+    ],
+    "order": 6
+  },
+  {
+    "brand": "land-rover",
+    "value": "new-range-rover-evoque-l551",
+    "title": "NEW RANGE ROVER EVOQUE / L551",
+    "image": "/vehicles/land-rover/new-range-rover-evoque-2019–2020.jpg",
+    "years": [
+      {
+        "value": "2019-2020",
+        "label": "2019-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 7
+  },
+  {
+    "brand": "land-rover",
+    "value": "new-range-rover-sport-l461",
+    "title": "NEW RANGE ROVER SPORT / L461",
+    "image": "/vehicles/land-rover/new-range-rover-sport-2023plus.jpg",
+    "years": [
+      {
+        "value": "2023+",
+        "label": "2023+"
+      }
+    ],
+    "order": 8
+  },
+  {
+    "brand": "land-rover",
+    "value": "range-rover-l322",
+    "title": "RANGE ROVER / L322",
+    "image": "/vehicles/land-rover/range-rover-2010.jpg",
+    "years": [
+      {
+        "value": "2010-2012",
+        "label": "2010-2012"
+      }
+    ],
+    "order": 9
+  },
+  {
+    "brand": "land-rover",
+    "value": "range-rover-l405",
+    "title": "RANGE ROVER / L405",
+    "image": "/vehicles/land-rover/range-rover-2013.jpg",
+    "years": [
+      {
+        "value": "2013-2016",
+        "label": "2013-2016"
+      },
+      {
+        "value": "2017",
+        "label": "2017"
+      },
+      {
+        "value": "2018-2021",
+        "label": "2018-2021"
+      }
+    ],
+    "order": 10
+  },
+  {
+    "brand": "land-rover",
+    "value": "range-rover-evoque-l538",
+    "title": "RANGE ROVER EVOQUE / L538",
+    "image": "/vehicles/land-rover/range-rover-evoque-2012-2015.jpg",
+    "years": [
+      {
+        "value": "2012-2015",
+        "label": "2012-2015"
+      },
+      {
+        "value": "2016-2019",
+        "label": "2016-2019"
+      }
+    ],
+    "order": 11
+  },
+  {
+    "brand": "land-rover",
+    "value": "range-rover-sport-l320",
+    "title": "RANGE ROVER SPORT / L320",
+    "image": "/vehicles/land-rover/range-rover-sport-2010.jpg",
+    "years": [
+      {
+        "value": "2010-2013",
+        "label": "2010-2013"
+      }
+    ],
+    "order": 12
+  },
+  {
+    "brand": "land-rover",
+    "value": "range-rover-sport-l494",
+    "title": "RANGE ROVER SPORT / L494",
+    "image": "/vehicles/land-rover/range-rover-sport-2014-2016.jpg",
+    "years": [
+      {
+        "value": "2014-2016",
+        "label": "2014-2016"
+      },
+      {
+        "value": "2017",
+        "label": "2017"
+      },
+      {
+        "value": "2018-2022",
+        "label": "2018-2022"
+      }
+    ],
+    "order": 13
+  },
+  {
+    "brand": "land-rover",
+    "value": "range-rover-velar-l560",
+    "title": "RANGE ROVER VELAR / L560",
+    "image": "/vehicles/land-rover/range-rover-velar-2017-2020.jpg",
+    "years": [
+      {
+        "value": "2017-2020",
+        "label": "2017-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 14
+  },
+  {
+    "brand": "jaguar",
+    "value": "e-pace",
+    "title": "E-PACE",
+    "image": "/vehicles/jaguar/e-pace-2017-2020.jpg",
+    "years": [
+      {
+        "value": "2017-2020",
+        "label": "2017-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 15
+  },
+  {
+    "brand": "jaguar",
+    "value": "f-pace",
+    "title": "F-PACE",
+    "image": "/vehicles/jaguar/f-pace-2016-2020.jpg",
+    "years": [
+      {
+        "value": "2016-2020",
+        "label": "2016-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 16
+  },
+  {
+    "brand": "jaguar",
+    "value": "f-type",
+    "title": "F-TYPE",
+    "image": "/vehicles/jaguar/f-type-2014-2020.jpg",
+    "years": [
+      {
+        "value": "2014+",
+        "label": "2014+"
+      }
+    ],
+    "order": 17
+  },
+  {
+    "brand": "jaguar",
+    "value": "i-pace",
+    "title": "I-PACE",
+    "image": "/vehicles/jaguar/i-pace-2018-2020.jpg",
+    "years": [
+      {
+        "value": "2018-2020",
+        "label": "2018-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 18
+  },
+  {
+    "brand": "jaguar",
+    "value": "xe",
+    "title": "XE",
+    "image": "/vehicles/jaguar/xe-2015-2020.jpg",
+    "years": [
+      {
+        "value": "2015-2020",
+        "label": "2015-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 19
+  },
+  {
+    "brand": "jaguar",
+    "value": "xf",
+    "title": "XF ",
+    "image": "/vehicles/jaguar/xf-2009–2015.jpg",
+    "years": [
+      {
+        "value": "2012-2015",
+        "label": "2012-2015"
+      }
+    ],
+    "order": 20
+  },
+  {
+    "brand": "jaguar",
+    "value": "xj",
+    "title": "XJ",
+    "image": "/vehicles/jaguar/xj-2010–2019.jpg",
+    "years": [
+      {
+        "value": "2010-2019",
+        "label": "2010-2019"
+      }
+    ],
+    "order": 21
+  },
+  {
+    "brand": "jaguar",
+    "value": "xf",
+    "title": "XF",
+    "image": "/vehicles/jaguar/xf-2016-2020.jpg",
+    "years": [
+      {
+        "value": "2016-2020",
+        "label": "2016-2020"
+      },
+      {
+        "value": "2021+",
+        "label": "2021+"
+      }
+    ],
+    "order": 22
+  }
+]

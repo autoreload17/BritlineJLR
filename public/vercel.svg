@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 25 25"
+      to="360 25 25"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+    <!-- Внешний обод колеса (серый металлик) -->
+    <circle 
+      cx="25" 
+      cy="25" 
+      r="24" 
+      fill="none" 
+      stroke="#888888" 
+      stroke-width="2"
+    />
+    <!-- Шина (British Racing Green) -->
+    <circle 
+      cx="25" 
+      cy="25" 
+      r="20" 
+      fill="#004225"
+    />
+    <!-- Спицы диска (серый металлик) -->
+    <line x1="25" y1="5" x2="25" y2="15" stroke="#888888" stroke-width="1.5" />
+    <line x1="25" y1="35" x2="25" y2="45" stroke="#888888" stroke-width="1.5" />
+    <line x1="5" y1="25" x2="15" y2="25" stroke="#888888" stroke-width="1.5" />
+    <line x1="35" y1="25" x2="45" y2="25" stroke="#888888" stroke-width="1.5" />
+    <line x1="10.86" y1="10.86" x2="17.07" y2="17.07" stroke="#888888" stroke-width="1.5" />
+    <line x1="32.93" y1="32.93" x2="39.14" y2="39.14" stroke="#888888" stroke-width="1.5" />
+    <line x1="10.86" y1="39.14" x2="17.07" y2="32.93" stroke="#888888" stroke-width="1.5" />
+    <line x1="32.93" y1="17.07" x2="39.14" y2="10.86" stroke="#888888" stroke-width="1.5" />
+    <!-- Центральная ступица -->
+    <circle 
+      cx="25" 
+      cy="25" 
+      r="8" 
+      fill="#666666"
+    />
+    <circle 
+      cx="25" 
+      cy="25" 
+      r="5" 
+      fill="#888888"
+    />
+  </g>
+</svg>
